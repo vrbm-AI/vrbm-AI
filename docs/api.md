@@ -85,3 +85,7 @@ Strict instructions sent to Ollama to enforce Python literal output.
 
 ## `VALID_TYPES`
 Mapping of type names → Python classes.
+
+---
+
+[< prev.](vrbm_config.md) | [home](index.md)

@@ -34,3 +34,7 @@ print(generate("Give me a number.", output_type="int"))
 ```
 
 If you see a valid integer, everything is working.
+
+---
+
+[home](index.md) | [next >](usage.md)

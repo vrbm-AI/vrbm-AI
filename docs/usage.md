@@ -59,3 +59,7 @@ If you want the raw model output:
 ```python
 generate("Give me a number.", parse=False)
 ```
+
+---
+
+[< prev.](installation.md) | [home](index.md) | [next >](vrbm_config.md)

@@ -44,3 +44,7 @@ If `vrbm_config` does not exist, `vrbm‑AI` uses built‑in defaults:
 - `model = "llama3.1:8b"`
 - `temperature = 0.7`
 - `alive_time = "5m"`
+
+---
+
+[< prev.](usage.md) | [home](index.md) | [next >](api.md)

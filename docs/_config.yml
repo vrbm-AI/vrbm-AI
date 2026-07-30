@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 title: vrbm-AI Documentation
-description: Official documentation for the vrbm-AI Python package
+description: Official documentation for the vrbm-AI Python library
 markdown: kramdown
