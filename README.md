@@ -11,6 +11,14 @@
 
 ---
 
+## Why?
+
+I created `vrbm-ai` as a minimal wrapper to use local AI within your Python code. Although it has a very minimal interface, `vrbm-ai` is also very powerful. It supports data type enforcing, smart model downloading, and [more](https://vrbm-AI.github.io/vrbm-AI/). And that's, well, it. 
+
+` (OvO) `
+
+---
+
 ## How to Use
 
 ### Example Code
