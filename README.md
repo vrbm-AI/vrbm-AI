@@ -43,7 +43,7 @@ alive_time=5m
 
 ### What is a `vrbm_config` file?
 
-A `vrbm_config` file contains the settings for `vrbm-ai` to use at runtime. For more information, go [here](https://vrbm-AI.github.io/vrbm-AI/vrbm_config/).
+A `vrbm_config` file contains the settings for `vrbm-ai` to use at runtime. For more information, go [here](https://vrbm-AI.github.io/vrbm-AI/vrbm_config.html).
 
 ---
 
