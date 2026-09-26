@@ -13,7 +13,7 @@
 
 ## Why?
 
-I created `vrbm-ai` as a minimal wrapper to use local AI within your Python code. Although it has a very minimal interface, `vrbm-ai` is also very powerful. It supports data type enforcing, smart model downloading, and [more](https://vrbm-AI.github.io/vrbm-AI/). And that's, well, it. 
+I created `vrbm-ai` as a minimal wrapper to use local AI within your Python code. Although it has a very minimal interface, `vrbm-ai` is also very powerful. It supports data type enforcing, smart model downloading, and [more](https://vrbm-AI.github.io/vrbm-ai/). And that's, well, it. 
 
 ` (OvO) `
 
@@ -43,13 +43,13 @@ alive_time=5m
 
 ### What is a `vrbm_config` file?
 
-A `vrbm_config` file contains the settings for `vrbm-ai` to use at runtime. For more information, go [here](https://vrbm-AI.github.io/vrbm-AI/vrbm_config.html).
+A `vrbm_config` file contains the settings for `vrbm-ai` to use at runtime. For more information, go [here](https://vrbm-AI.github.io/vrbm-ai/vrbm_config.html).
 
 ---
 
 ## Docs
 
-Find the full documentation for vrbm-AI [here](https://vrbm-AI.github.io/vrbm-AI/).
+Find the full documentation for vrbm-AI [here](https://vrbm-AI.github.io/vrbm-ai/).
 
 ---
 
