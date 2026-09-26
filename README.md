@@ -1,4 +1,4 @@
-> # vrbm-AI
+> # vrbm
 > > **a python library**
 
 ## Setup
@@ -7,13 +7,13 @@
 2. Install [Ollama](https://ollama.com)\* for your system (old versions are found [here](https://ollama.en.uptodown.com/windows))
 3. Done!
 
-\*This version of `vrbm-ai` (0.0.1) was tested on Ollama version 0.32.5
+\*This version of `vrbm` (0.0.1) was tested on Ollama version 0.32.5
 
 ---
 
 ## Why?
 
-I created `vrbm-ai` as a minimal wrapper to use local AI within your Python code. Although it has a very minimal interface, `vrbm-ai` is also very powerful. It supports data type enforcing, smart model downloading, and [more](https://vrbm-AI.github.io/vrbm-ai/). And that's, well, it. 
+I created `vrbm` as a minimal wrapper to use local AI within your Python code. Although it has a very minimal interface, `vrbm` is also very powerful. It supports data type enforcing, smart model downloading, and [more](https://vrbm-AI.github.io/vrbm/). And that's, well, it. 
 
 ` (OvO) `
 
@@ -43,13 +43,13 @@ alive_time=5m
 
 ### What is a `vrbm_config` file?
 
-A `vrbm_config` file contains the settings for `vrbm-ai` to use at runtime. For more information, go [here](https://vrbm-AI.github.io/vrbm-ai/vrbm_config.html).
+A `vrbm_config` file contains the settings for `vrbm` to use at runtime. For more information, go [here](https://vrbm-AI.github.io/vrbm/vrbm_config.html).
 
 ---
 
 ## Docs
 
-Find the full documentation for vrbm-AI [here](https://vrbm-AI.github.io/vrbm-ai/).
+Find the full documentation for vrbm [here](https://vrbm-AI.github.io/vrbm/).
 
 ---
 
